@@ -63,6 +63,6 @@ Features:
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/rickyjamesperez/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
