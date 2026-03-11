@@ -1,49 +1,68 @@
-# Hi 👋 What's up?
+# Hi 👋 I'm Ricky Perez
 
-My name is **Ricky Perez** and I'm a **Software Engineer from the Philippines** 🇵🇭
-
----
-
-## About me
-
-💻 .NET Developer with experience in backend and full-stack development  
-✈️ Interested in aviation systems and airport technology  
-🎯 Goal: Become a senior engineer working on large-scale systems  
-⚡ Fun fact: I like planes, coding, and learning new tech
+💻 .NET Software Engineer from the Philippines 🇵🇭  
+I build backend systems, APIs, and full-stack applications.
 
 ---
 
-## I code with
+## 📊 GitHub Stats
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,nodejs,react,python,mysql" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumeimachine&show_icons=true&theme=tokyonight)
 
----
-
-## Had experience with
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,java,php,bootstrap,visualstudio,vscode,azure" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeimachine&layout=compact&theme=tokyonight)
 
 ---
 
-## Projects
+## 🚀 About Me
 
-🚀 **Accenture Technical Exam – Coffee Machine API**  
-.NET Web API with unit tests and extra credit features  
-👉 https://github.com/Sumeimachine/PEREZ_Accenture_Exam
-
-🛫 **Airport Runsheet System**  
-Digital runsheet management system for airport operations.
+- 💻 .NET / C# backend developer
+- ⚙️ Experience building REST APIs and full-stack systems
+- 🌐 Experience deploying production applications
+- ✈️ Interested in aviation and large-scale system development
+- 📚 Always learning new technologies and improving architecture skills
 
 ---
 
-## Connect with me
+## 🧰 Tech Stack
 
-<p>
+### Backend
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+### DevOps / Tools
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,azure,linux" />
+
+---
+
+## 🚀 Featured Project
+
+### Fan Event Management System
+
+Full-stack web platform used to manage fan events and site content.
+
+Architecture:
+
+Frontend → Angular deployed on Vercel  
+Backend → .NET Web API hosted on Hetzner VPS  
+Database → MySQL  
+
+Features:
+
+- Admin authentication system
+- Event content management
+- Image upload and replacement
+- REST API backend
+- Production deployment using VPS and cloud hosting
+
+---
+
+## 🌐 Connect With Me
+
 <a href="https://www.linkedin.com/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-</p>
