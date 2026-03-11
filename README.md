@@ -49,7 +49,7 @@ Architecture:
 
 Frontend → Angular deployed on Vercel  
 Backend → .NET Web API hosted on Hetzner VPS  
-Database → MySQL  
+Database → MS SQL 2022
 
 Features:
 
